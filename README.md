@@ -56,5 +56,5 @@ Enhanced my Knowledge to deal with REST API's and React Redux.
 ## Author
 
 - Website - [Shashank Sharma]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shashank20-02)
+- Frontend Mentor - [@shashank20-02](https://www.frontendmentor.io/profile/shashank20-02)
 - Github - [@shashank20-02](https://www.github.com/shashank20-02)
