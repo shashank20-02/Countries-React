@@ -27,7 +27,7 @@ const CountryPage = () => {
 
   return (
     <div
-      className={`w-full h-full ${
+      className={`w-full lg:h-full h-auto ${
         theme === "Light"
           ? " bg-LightBack text-LightText"
           : " bg-DarkBack text-DarkText"
@@ -39,7 +39,7 @@ const CountryPage = () => {
         <div className="w-full h-full">
           {data && (
             <div className="w-full h-full lg:px-32 px-4 py-8 ">
-              <div className="w-full h-12 mb-16">
+              <div className="w-full h-12 lg:mb-16 mb-4">
                 <button
                   className={`w-32 h-full shadow-lg rounded-md flex items-center justify-center ${
                     theme === "Light" ? " bg-LightCard" : "bg-DarkCard"
